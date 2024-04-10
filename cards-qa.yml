@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to cards QA APIS "
+  contactDetails:
+    name: "ZE  - QA LEAD "
+    email: "QALEAD@email.com"
+  onCallSupport:
+    - (555) 555-4576
+    - (555) 523-1112

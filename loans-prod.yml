@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to LOANS prod"
+  contactDetails:
+    name: "tone  - prod owner "
+    email: "toneprod@email.com"
+  onCallSupport:
+    - (555) 555-2212
+    - (555) 523-4432

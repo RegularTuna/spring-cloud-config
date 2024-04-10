@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to cards prod"
+  contactDetails:
+    name: "tone  - card owner "
+    email: "toneprod@email.com"
+  onCallSupport:
+    - (555) 555-2212
+    - (555) 523-4432
