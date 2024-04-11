@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to cards prodzzzz webhook"
+  message: "Welcome to cards prodz"
   contactDetails:
     name: "tone  - card owner "
     email: "toneprod@email.com"
