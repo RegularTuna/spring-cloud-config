@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounts prod"
+  message: "Welcome to accounts produzzzzz"
   contactDetails:
     name: "tone  - prod owner "
-    email: "toneprod@email.com"
+    email: "{cipher}684bc460524fcb08b33edd6abe0c9e8fcfc43548213888857a10bfa870943ae89ff41b31d02384d00fb730c33d15f4ea"
   onCallSupport:
     - (555) 555-2212
     - (555) 523-4432

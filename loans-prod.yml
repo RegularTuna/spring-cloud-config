@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to LOANS prod"
+  message: "Welcome to related LOANS dockers productions"
   contactDetails:
     name: "tone  - prod owner "
     email: "toneprod@email.com"
