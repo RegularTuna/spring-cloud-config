@@ -1,4 +1,3 @@
-
 server:
   port: 8072
 
@@ -10,5 +9,4 @@ eureka:
     fetchRegistry: true
     serviceUrl:
       defaultZone: "http://localhost:8070/eureka/"
-
 
